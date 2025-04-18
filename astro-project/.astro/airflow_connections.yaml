@@ -1,0 +1,9 @@
+airflow:
+  connections:
+    - conn_id: google_cloud_default
+      conn_type: google_cloud_platform
+      extra: >
+        {
+          "project": "project-18652",
+          "scope": "https://www.googleapis.com/auth/cloud-platform"
+        }
