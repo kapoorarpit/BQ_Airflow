@@ -28,11 +28,11 @@ This repository contains an end-to-end data pipeline orchestrated using **Apache
 ### DAG Overview
 ![DAG Overview](images/Airflow.png)
 
-### BigQuery Dataset
-![BigQuery Job](images/BQ.png)
-
 ### Astronomer
 ![Data Transformation](images/Astronomer.png)
+
+### BigQuery Dataset
+![BigQuery Job](images/BQ.png)
 
 ### GCS bucket
 ![JSON Preview](images/GCS.png)
